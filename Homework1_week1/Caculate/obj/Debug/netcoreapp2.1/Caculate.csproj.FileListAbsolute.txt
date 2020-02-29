@@ -1,0 +1,11 @@
+D:\vs code\Caculate\Caculate\bin\Debug\netcoreapp2.1\Caculate.deps.json
+D:\vs code\Caculate\Caculate\bin\Debug\netcoreapp2.1\Caculate.runtimeconfig.json
+D:\vs code\Caculate\Caculate\bin\Debug\netcoreapp2.1\Caculate.runtimeconfig.dev.json
+D:\vs code\Caculate\Caculate\bin\Debug\netcoreapp2.1\Caculate.dll
+D:\vs code\Caculate\Caculate\bin\Debug\netcoreapp2.1\Caculate.pdb
+D:\vs code\Caculate\Caculate\obj\Debug\netcoreapp2.1\Caculate.csprojAssemblyReference.cache
+D:\vs code\Caculate\Caculate\obj\Debug\netcoreapp2.1\Caculate.csproj.CoreCompileInputs.cache
+D:\vs code\Caculate\Caculate\obj\Debug\netcoreapp2.1\Caculate.AssemblyInfoInputs.cache
+D:\vs code\Caculate\Caculate\obj\Debug\netcoreapp2.1\Caculate.AssemblyInfo.cs
+D:\vs code\Caculate\Caculate\obj\Debug\netcoreapp2.1\Caculate.dll
+D:\vs code\Caculate\Caculate\obj\Debug\netcoreapp2.1\Caculate.pdb
