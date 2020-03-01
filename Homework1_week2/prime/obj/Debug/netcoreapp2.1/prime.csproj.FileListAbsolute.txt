@@ -1,0 +1,10 @@
+D:\vs code\prime\prime\bin\Debug\netcoreapp2.1\prime.deps.json
+D:\vs code\prime\prime\bin\Debug\netcoreapp2.1\prime.runtimeconfig.json
+D:\vs code\prime\prime\bin\Debug\netcoreapp2.1\prime.runtimeconfig.dev.json
+D:\vs code\prime\prime\bin\Debug\netcoreapp2.1\prime.dll
+D:\vs code\prime\prime\bin\Debug\netcoreapp2.1\prime.pdb
+D:\vs code\prime\prime\obj\Debug\netcoreapp2.1\prime.csproj.CoreCompileInputs.cache
+D:\vs code\prime\prime\obj\Debug\netcoreapp2.1\prime.AssemblyInfoInputs.cache
+D:\vs code\prime\prime\obj\Debug\netcoreapp2.1\prime.AssemblyInfo.cs
+D:\vs code\prime\prime\obj\Debug\netcoreapp2.1\prime.dll
+D:\vs code\prime\prime\obj\Debug\netcoreapp2.1\prime.pdb
