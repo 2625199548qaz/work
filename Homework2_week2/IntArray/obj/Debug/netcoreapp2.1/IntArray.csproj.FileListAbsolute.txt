@@ -1,0 +1,11 @@
+D:\vs code\Homework2_week2\IntArray\bin\Debug\netcoreapp2.1\IntArray.deps.json
+D:\vs code\Homework2_week2\IntArray\bin\Debug\netcoreapp2.1\IntArray.runtimeconfig.json
+D:\vs code\Homework2_week2\IntArray\bin\Debug\netcoreapp2.1\IntArray.runtimeconfig.dev.json
+D:\vs code\Homework2_week2\IntArray\bin\Debug\netcoreapp2.1\IntArray.dll
+D:\vs code\Homework2_week2\IntArray\bin\Debug\netcoreapp2.1\IntArray.pdb
+D:\vs code\Homework2_week2\IntArray\obj\Debug\netcoreapp2.1\IntArray.csprojAssemblyReference.cache
+D:\vs code\Homework2_week2\IntArray\obj\Debug\netcoreapp2.1\IntArray.csproj.CoreCompileInputs.cache
+D:\vs code\Homework2_week2\IntArray\obj\Debug\netcoreapp2.1\IntArray.AssemblyInfoInputs.cache
+D:\vs code\Homework2_week2\IntArray\obj\Debug\netcoreapp2.1\IntArray.AssemblyInfo.cs
+D:\vs code\Homework2_week2\IntArray\obj\Debug\netcoreapp2.1\IntArray.dll
+D:\vs code\Homework2_week2\IntArray\obj\Debug\netcoreapp2.1\IntArray.pdb
