@@ -1,0 +1,11 @@
+D:\vs code\home_week3\home_week3\bin\Debug\netcoreapp2.1\home_week3.deps.json
+D:\vs code\home_week3\home_week3\bin\Debug\netcoreapp2.1\home_week3.runtimeconfig.json
+D:\vs code\home_week3\home_week3\bin\Debug\netcoreapp2.1\home_week3.runtimeconfig.dev.json
+D:\vs code\home_week3\home_week3\bin\Debug\netcoreapp2.1\home_week3.dll
+D:\vs code\home_week3\home_week3\bin\Debug\netcoreapp2.1\home_week3.pdb
+D:\vs code\home_week3\home_week3\obj\Debug\netcoreapp2.1\home_week3.csproj.CoreCompileInputs.cache
+D:\vs code\home_week3\home_week3\obj\Debug\netcoreapp2.1\home_week3.AssemblyInfoInputs.cache
+D:\vs code\home_week3\home_week3\obj\Debug\netcoreapp2.1\home_week3.AssemblyInfo.cs
+D:\vs code\home_week3\home_week3\obj\Debug\netcoreapp2.1\home_week3.dll
+D:\vs code\home_week3\home_week3\obj\Debug\netcoreapp2.1\home_week3.pdb
+D:\vs code\home_week3\home_week3\obj\Debug\netcoreapp2.1\home_week3.csprojAssemblyReference.cache
