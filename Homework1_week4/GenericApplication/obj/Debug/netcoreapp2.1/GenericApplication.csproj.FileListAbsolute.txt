@@ -1,0 +1,11 @@
+D:\vs code\Homework1_week4\GenericApplication\bin\Debug\netcoreapp2.1\GenericApplication.deps.json
+D:\vs code\Homework1_week4\GenericApplication\bin\Debug\netcoreapp2.1\GenericApplication.runtimeconfig.json
+D:\vs code\Homework1_week4\GenericApplication\bin\Debug\netcoreapp2.1\GenericApplication.runtimeconfig.dev.json
+D:\vs code\Homework1_week4\GenericApplication\bin\Debug\netcoreapp2.1\GenericApplication.dll
+D:\vs code\Homework1_week4\GenericApplication\bin\Debug\netcoreapp2.1\GenericApplication.pdb
+D:\vs code\Homework1_week4\GenericApplication\obj\Debug\netcoreapp2.1\GenericApplication.csprojAssemblyReference.cache
+D:\vs code\Homework1_week4\GenericApplication\obj\Debug\netcoreapp2.1\GenericApplication.csproj.CoreCompileInputs.cache
+D:\vs code\Homework1_week4\GenericApplication\obj\Debug\netcoreapp2.1\GenericApplication.AssemblyInfoInputs.cache
+D:\vs code\Homework1_week4\GenericApplication\obj\Debug\netcoreapp2.1\GenericApplication.AssemblyInfo.cs
+D:\vs code\Homework1_week4\GenericApplication\obj\Debug\netcoreapp2.1\GenericApplication.dll
+D:\vs code\Homework1_week4\GenericApplication\obj\Debug\netcoreapp2.1\GenericApplication.pdb
