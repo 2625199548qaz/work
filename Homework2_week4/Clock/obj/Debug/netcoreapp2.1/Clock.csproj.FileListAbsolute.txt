@@ -1,0 +1,10 @@
+D:\vs code\Clock\Clock\bin\Debug\netcoreapp2.1\Clock.deps.json
+D:\vs code\Clock\Clock\bin\Debug\netcoreapp2.1\Clock.runtimeconfig.json
+D:\vs code\Clock\Clock\bin\Debug\netcoreapp2.1\Clock.runtimeconfig.dev.json
+D:\vs code\Clock\Clock\bin\Debug\netcoreapp2.1\Clock.dll
+D:\vs code\Clock\Clock\bin\Debug\netcoreapp2.1\Clock.pdb
+D:\vs code\Clock\Clock\obj\Debug\netcoreapp2.1\Clock.csproj.CoreCompileInputs.cache
+D:\vs code\Clock\Clock\obj\Debug\netcoreapp2.1\Clock.AssemblyInfoInputs.cache
+D:\vs code\Clock\Clock\obj\Debug\netcoreapp2.1\Clock.AssemblyInfo.cs
+D:\vs code\Clock\Clock\obj\Debug\netcoreapp2.1\Clock.dll
+D:\vs code\Clock\Clock\obj\Debug\netcoreapp2.1\Clock.pdb
