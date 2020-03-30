@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OderManagement", "OderManagement\OderManagement.csproj", "{39C8747A-1900-47D4-993A-B10883A2883B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{58B8DC88-0BF7-406B-A201-B8F243BE8516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C8747A-1900-47D4-993A-B10883A2883B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C8747A-1900-47D4-993A-B10883A2883B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C8747A-1900-47D4-993A-B10883A2883B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C8747A-1900-47D4-993A-B10883A2883B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B8DC88-0BF7-406B-A201-B8F243BE8516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B8DC88-0BF7-406B-A201-B8F243BE8516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B8DC88-0BF7-406B-A201-B8F243BE8516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B8DC88-0BF7-406B-A201-B8F243BE8516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F57403-E394-4687-BA60-25720ADB8270}
+	EndGlobalSection
+EndGlobal

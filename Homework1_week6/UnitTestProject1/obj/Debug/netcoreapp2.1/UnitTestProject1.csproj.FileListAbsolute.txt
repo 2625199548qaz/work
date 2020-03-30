@@ -1,0 +1,14 @@
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\vs code\Homework1_week6\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\vs code\Homework1_week6\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\vs code\Homework1_week6\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\vs code\Homework1_week6\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\vs code\Homework1_week6\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\vs code\Homework1_week6\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\vs code\Homework1_week6\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

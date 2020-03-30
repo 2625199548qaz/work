@@ -1,0 +1,11 @@
+D:\vs code\Homework1_week6\OderManagement\bin\Debug\netcoreapp2.1\OderManagement.deps.json
+D:\vs code\Homework1_week6\OderManagement\bin\Debug\netcoreapp2.1\OderManagement.runtimeconfig.json
+D:\vs code\Homework1_week6\OderManagement\bin\Debug\netcoreapp2.1\OderManagement.runtimeconfig.dev.json
+D:\vs code\Homework1_week6\OderManagement\bin\Debug\netcoreapp2.1\OderManagement.dll
+D:\vs code\Homework1_week6\OderManagement\bin\Debug\netcoreapp2.1\OderManagement.pdb
+D:\vs code\Homework1_week6\OderManagement\obj\Debug\netcoreapp2.1\OderManagement.csprojAssemblyReference.cache
+D:\vs code\Homework1_week6\OderManagement\obj\Debug\netcoreapp2.1\OderManagement.csproj.CoreCompileInputs.cache
+D:\vs code\Homework1_week6\OderManagement\obj\Debug\netcoreapp2.1\OderManagement.AssemblyInfoInputs.cache
+D:\vs code\Homework1_week6\OderManagement\obj\Debug\netcoreapp2.1\OderManagement.AssemblyInfo.cs
+D:\vs code\Homework1_week6\OderManagement\obj\Debug\netcoreapp2.1\OderManagement.dll
+D:\vs code\Homework1_week6\OderManagement\obj\Debug\netcoreapp2.1\OderManagement.pdb
