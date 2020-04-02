@@ -69,24 +69,27 @@ namespace OderManagement
             return null;
         }
 
-        public void Export()
+        public void Export()        //序列化
         {
             XmlSerializer xmlserializer = new XmlSerializer(typeof(List<Order>));
             using (FileStream fs = new FileStream(@"D:\orders.xml", FileMode.Create))
             {
                 xmlserializer.Serialize(fs, orderList);
             }
+            Console.WriteLine("\nSerialized as XML:");
+            Console.WriteLine(File.ReadAllText("s.xml"));
         }
-        public List<Order> Import()
+        public void Import()         //反序列化
         {
             XmlSerializer xmlserializer = new XmlSerializer(typeof(List<Order>));
             using (FileStream fs = new FileStream(@"D:\orders.xml" , FileMode.Open))
             {
                 List<Order> list = (List<Order>)xmlserializer.Deserialize(fs);
+                Console.WriteLine("\nDeserialized from s.xml");
                 foreach (Order o in list)
                     Console.WriteLine(o);
-                return list;
             }
+
         }
     }
 }

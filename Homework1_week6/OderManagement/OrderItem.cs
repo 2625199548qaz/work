@@ -12,14 +12,17 @@ namespace OderManagement
         public int Num
         {
             get => num;
+            set => num = value;
         }
         public string ProductName
         {
             get => productName;
+            set => productName = value;
         }
         public double Price
         {
             get => price;
+            set => price = value;
         }
 
         public OrderItem() { }

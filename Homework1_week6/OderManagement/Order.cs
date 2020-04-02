@@ -13,14 +13,23 @@ namespace OderManagement
         public string ID
         {
             get => Id;
+            set => Id = value;
         }
         public double Money
         {
             get => money;
+            set => money = value;
         }
         public string Client
         {
             get => client;
+            set => client = value;
+        }
+
+        public OrderItem[] OrdItem
+        {
+            get => ordItem;
+            set => ordItem = value;
         }
 
        public Order()     //构造函数，完成对订单以及订单细项的初始化

@@ -5845,11 +5845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vs code\\Homework1_week6\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "D:\\repgit\\Homework1_week6\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "D:\\vs code\\Homework1_week6\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectPath": "D:\\repgit\\Homework1_week6\\UnitTestProject1\\UnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\vs code\\Homework1_week6\\UnitTestProject1\\obj\\",
+      "outputPath": "D:\\repgit\\Homework1_week6\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5868,8 +5868,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\vs code\\Homework1_week6\\OderManagement\\OderManagement.csproj": {
-              "projectPath": "D:\\vs code\\Homework1_week6\\OderManagement\\OderManagement.csproj"
+            "D:\\repgit\\Homework1_week6\\OderManagement\\OderManagement.csproj": {
+              "projectPath": "D:\\repgit\\Homework1_week6\\OderManagement\\OderManagement.csproj"
             }
           }
         }

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vs code\\Homework1_week6\\OderManagement\\OderManagement.csproj",
+      "projectUniqueName": "D:\\repgit\\Homework1_week6\\OderManagement\\OderManagement.csproj",
       "projectName": "OderManagement",
-      "projectPath": "D:\\vs code\\Homework1_week6\\OderManagement\\OderManagement.csproj",
+      "projectPath": "D:\\repgit\\Homework1_week6\\OderManagement\\OderManagement.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\vs code\\Homework1_week6\\OderManagement\\obj\\",
+      "outputPath": "D:\\repgit\\Homework1_week6\\OderManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
