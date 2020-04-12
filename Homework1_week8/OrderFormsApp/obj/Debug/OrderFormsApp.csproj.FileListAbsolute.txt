@@ -1,0 +1,17 @@
+D:\vs code\Homework6-\OrderFormsApp\bin\Debug\OrderFormsApp.exe.config
+D:\vs code\Homework6-\OrderFormsApp\bin\Debug\OrderFormsApp.exe
+D:\vs code\Homework6-\OrderFormsApp\bin\Debug\OrderFormsApp.pdb
+D:\vs code\Homework6-\OrderFormsApp\bin\Debug\OrderApp.exe
+D:\vs code\Homework6-\OrderFormsApp\bin\Debug\OrderApp.pdb
+D:\vs code\Homework6-\OrderFormsApp\bin\Debug\OrderApp.exe.config
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.csprojAssemblyReference.cache
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.Form1.resources
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.Form2.resources
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.Form3.resources
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.Form4.resources
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.Properties.Resources.resources
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.csproj.GenerateResource.cache
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.csproj.CoreCompileInputs.cache
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.csproj.CopyComplete
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.exe
+D:\vs code\Homework6-\OrderFormsApp\obj\Debug\OrderFormsApp.pdb
