@@ -1,0 +1,11 @@
+D:\vs code\Reptile\Reptile\bin\Debug\netcoreapp2.1\Reptile.deps.json
+D:\vs code\Reptile\Reptile\bin\Debug\netcoreapp2.1\Reptile.runtimeconfig.json
+D:\vs code\Reptile\Reptile\bin\Debug\netcoreapp2.1\Reptile.runtimeconfig.dev.json
+D:\vs code\Reptile\Reptile\bin\Debug\netcoreapp2.1\Reptile.dll
+D:\vs code\Reptile\Reptile\bin\Debug\netcoreapp2.1\Reptile.pdb
+D:\vs code\Reptile\Reptile\obj\Debug\netcoreapp2.1\Reptile.csprojAssemblyReference.cache
+D:\vs code\Reptile\Reptile\obj\Debug\netcoreapp2.1\Reptile.csproj.CoreCompileInputs.cache
+D:\vs code\Reptile\Reptile\obj\Debug\netcoreapp2.1\Reptile.AssemblyInfoInputs.cache
+D:\vs code\Reptile\Reptile\obj\Debug\netcoreapp2.1\Reptile.AssemblyInfo.cs
+D:\vs code\Reptile\Reptile\obj\Debug\netcoreapp2.1\Reptile.dll
+D:\vs code\Reptile\Reptile\obj\Debug\netcoreapp2.1\Reptile.pdb
