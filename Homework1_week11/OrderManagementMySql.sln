@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementMySql", "OrderManagementMySql\OrderManagementMySql.csproj", "{75CF9753-E340-4F65-9F03-516C18E15B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CF9753-E340-4F65-9F03-516C18E15B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CF9753-E340-4F65-9F03-516C18E15B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CF9753-E340-4F65-9F03-516C18E15B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CF9753-E340-4F65-9F03-516C18E15B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB854B30-FF9A-48FF-A1C0-E46E9DFFA4EF}
+	EndGlobalSection
+EndGlobal
